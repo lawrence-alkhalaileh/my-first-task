@@ -14,5 +14,3 @@ Contains:
 ### 3. Contact Us
 - **Contact Form**: Includes multiple fields to enable users to communicate with the school.
 - **Phone Number**: Provides the school's phone number for urgent inquiries.
-
-##### Obiously didn't use ChatGPT :)
