@@ -1,6 +1,4 @@
-### you can check the design at        
-
-[figma](https://www.figma.com/design/uBkHYYdF0L9vpt77AXc21s/Untitled?node-id=0-1&t=oO0e2enqLAPrePm4-1)
+### you can check the design at [figma](https://www.figma.com/design/uBkHYYdF0L9vpt77AXc21s/Untitled?node-id=0-1&t=oO0e2enqLAPrePm4-1)
 
 # My First Task Breakdown
 
