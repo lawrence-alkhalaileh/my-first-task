@@ -1,3 +1,7 @@
+### you can check the design at        
+
+[figma](https://www.figma.com/design/uBkHYYdF0L9vpt77AXc21s/Untitled?node-id=0-1&t=oO0e2enqLAPrePm4-1)
+
 # My First Task Breakdown
 
 ### 1. Home Page
@@ -15,4 +19,3 @@ Contains:
 - **Contact Form**: Includes multiple fields to enable users to communicate with the school.
 - **Phone Number**: Provides the school's phone number for urgent inquiries.
 
-#### Obviously didn't use ChatGPT :)
